@@ -12,13 +12,13 @@
 
 import Security from './Security';
 import ImplicitCallback from './ImplicitCallback';
-import SecureRoute from './SecureRoute';
+import secureRouteThunk from './SecureRoute';
 import withAuth from './withAuth';
 import Auth from './Auth';
 
 export {
   ImplicitCallback,
-  SecureRoute,
+  secureRouteThunk,
   Security,
   withAuth,
   Auth
