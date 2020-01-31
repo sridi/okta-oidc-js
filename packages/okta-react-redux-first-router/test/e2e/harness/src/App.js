@@ -11,7 +11,7 @@
  */
 
 import React, { Component } from 'react';
-import { Security, Auth } from '@okta/okta-react/redux-first-router';
+import { Security, Auth } from '@sridi/okta-react-redux-first-router';
 import Router from './Router';
 
 if (!Auth) {

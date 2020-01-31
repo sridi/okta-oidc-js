@@ -11,7 +11,7 @@
  */
 
 import { Component } from 'react';
-import { withAuth } from '@okta/okta-react/redux-first-router';
+import { withAuth } from '@sridi/okta-react-redux-first-router';
 
 export default withAuth(class CustomLogin extends Component {
   componentDidMount() {

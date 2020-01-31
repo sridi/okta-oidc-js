@@ -36,7 +36,7 @@ module.exports = {
       config.resolve.alias = {};
     }
     Object.assign(config.resolve.alias, {
-      '@okta/okta-react': MAIN_ENTRY
+      '@sridi/okta-react-redux-first-router': MAIN_ENTRY
     });
 
     config.devtool = 'source-map';

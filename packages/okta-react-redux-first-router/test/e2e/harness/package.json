@@ -1,5 +1,5 @@
 {
-  "name": "@okta/okta-react-test-harness",
+  "name": "@sridi/okta-react-test-harness",
   "version": "0.0.7",
   "private": true,
   "dependencies": {

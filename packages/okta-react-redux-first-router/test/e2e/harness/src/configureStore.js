@@ -1,6 +1,6 @@
 import { applyMiddleware, combineReducers, compose, createStore } from 'redux';
 import { connectRoutes } from 'redux-first-router';
-import secureRouteThunk from '@okta/okta-react/redux-first-router';
+import secureRouteThunk from '@sridi/okta-react-redux-first-router';
 
 import page from './pageReducer';
 import protectedThunk from './thunks/protected';

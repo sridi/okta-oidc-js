@@ -12,7 +12,7 @@
 
 import React, { Component } from 'react';
 import OktaAuth from '@okta/okta-auth-js';
-import { withAuth } from '@okta/okta-react/redux-first-router';
+import { withAuth } from '@sridi/okta-react-redux-first-router';
 
 export default withAuth(class SessionTokenLogin extends Component {
   constructor(props) {

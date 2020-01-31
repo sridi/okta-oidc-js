@@ -12,7 +12,7 @@
 
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { withAuth } from '@okta/okta-react/redux-first-router';
+import { withAuth } from '@sridi/okta-react-redux-first-router';
 
 export default withAuth(class Home extends Component {
   constructor(props) {
