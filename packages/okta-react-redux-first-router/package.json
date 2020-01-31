@@ -1,6 +1,6 @@
 {
-  "name": "@okta/okta-react-redux-first-router",
-  "version": "1.4.0",
+  "name": "@sridi/okta-react-redux-first-router",
+  "version": "1.4.1",
   "description": "React support for Okta, with redux first router implementation",
   "main": "./dist/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okta/okta-oidc-js.git"
+    "url": "git+https://github.com/sridi/okta-oidc-js.git"
   },
   "keywords": [
     "oauth2"
@@ -25,12 +25,12 @@
     "dist",
     "src"
   ],
-  "author": "",
+  "author": "sridi.med.salem@gmail.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/okta/okta-oidc-js/issues"
+    "url": "https://github.com/sridi/okta-oidc-js/issues"
   },
-  "homepage": "https://github.com/okta/okta-oidc-js#readme",
+  "homepage": "https://github.com/sridi/okta-oidc-js#readme",
   "dependencies": {
     "@okta/configuration-validation": "^0.4.1",
     "@okta/okta-auth-js": "^2.11.2",
@@ -81,5 +81,8 @@
       "./test/jest/setup.js"
     ],
     "testEnvironment": "jsdom"
+  },
+  "directories": {
+    "test": "test"
   }
 }
