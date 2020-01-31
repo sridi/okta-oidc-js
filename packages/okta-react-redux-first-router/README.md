@@ -47,10 +47,10 @@ This library currently supports:
 
 ## Installation
 
-This library is available through [npm](https://www.npmjs.com/package/@okta/okta-react). To install it, simply add it to your project:
+This library is available through [npm](https://www.npmjs.com/package/@sridi/okta-react-redux-first-router). To install it, simply add it to your project:
 
 ```bash
-npm install --save @okta/okta-react-redux-first-router
+npm install --save @sridi/okta-react-redux-first-router
 ```
 
 ## Usage
