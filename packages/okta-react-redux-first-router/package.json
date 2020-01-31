@@ -1,6 +1,6 @@
 {
   "name": "@sridi/okta-react-redux-first-router",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "React support for Okta, with redux first router implementation",
   "main": "./dist/index.js",
   "scripts": {
